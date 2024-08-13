@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Robofriends React App
+This project uses a third party free API to pull fake data from a /users endpoint and use it in each robot component. Cards have been created to represent user profiles and you can search for any robot, using that array of users. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
